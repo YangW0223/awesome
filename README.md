@@ -8,6 +8,10 @@
 
 # git
   1. [git reset soft,hard,mixed之区别深解](https://blog.csdn.net/zpf336/article/details/80896020)
-
+# node
+  1. [入理解Node.js：核心思想与源码分析]{https://github.com/yjhjstz/deep-into-node}
+  2. [深入学习 Node.js]{https://github.com/semlinker/node-deep}
 # deno
   1. [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note)
+  
+  [ 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++]{https://github.com/CyC2018/CS-Notes}
