@@ -1,4 +1,6 @@
 # awesome
+# 前端性能优化
+  1. [前端性能优化之旅](https://alienzhou.github.io/fe-performance-journey/#%E5%89%8D%E7%AB%AF%E9%9C%80%E8%A6%81%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%88%EF%BC%9F)
 
 # 微前端
   1. 蚂蚁金融科技[qiankuan](https://github.com/umijs/qiankun) [简介](https://qiankun.umijs.org/zh/guide/#%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E5%89%8D%E7%AB%AF)
@@ -17,4 +19,4 @@
 # deno
   1. [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note)
   
-  [ 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++]{https://github.com/CyC2018/CS-Notes}
+  [ 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++](https://github.com/CyC2018/CS-Notes)
