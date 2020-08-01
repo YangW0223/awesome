@@ -13,7 +13,7 @@
   2. [深入学习 Node.js](https://github.com/semlinker/node-deep)
   3. [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
   ## 项目
-    1.[网易云音乐 Node.js API service](https://github.com/Binaryify/NeteaseCloudMusicApi)
+    1. [网易云音乐 Node.js API service](https://github.com/Binaryify/NeteaseCloudMusicApi)
 # deno
   1. [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note)
   
