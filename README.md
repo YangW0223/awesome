@@ -21,18 +21,39 @@
   2. [深入学习 Node.js](https://github.com/semlinker/node-deep)
   3. [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
   4. [网易云音乐 API](https://github.com/Binaryify/NeteaseCloudMusicApi)
+  5. [通过源码分析nodejs原理](https://github.com/theanarkh/understand-nodejs)
  
 # serverless
   1. [midway](https://github.com/midwayjs/midway)
 
 # Java
   1. [Java8](https://github.com/LingCoder/OnJava8)
+  2. [Spring Boot Demo 是一个用来深度学习并实战 spring boot 的项目](https://github.com/xkcoding/spring-boot-demo)
 
 #c++
   1. [C++ 资源大全中文版](https://github.com/jobbole/awesome-cpp-cn)
   2. [libuv](https://github.com/libuv/libuv)
+  3. [C++ Standard Library](https://github.com/microsoft/STL)
+  4. [libuv中文教程](https://github.com/luohaha/Chinese-uvbook)
 
 # deno
   1. [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note)
   
+  
+ # 跨端
+  1. [react-native](https://github.com/facebook/react-native)
+  2. [flutter](https://github.com/flutter/flutter)
+  3. [一款跨平台的开源Github客户端App](https://github.com/CarGuo/GSYGithubAPP)
+ 
+ # Svg & Canvans
+  1. [百度脑图](https://github.com/fex-team/kityminder)
+  2. [D3](https://github.com/d3/d3)
+  3. [HTML canvas框架汇总](https://feizhaojun.com/?p=2149)
+
   [ 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++](https://github.com/CyC2018/CS-Notes)
+  [中华新华字典数据库和 API](https://github.com/pwxcoo/chinese-xinhua)
+  [GitHub中文排行榜，帮助你发现高分优秀中文项目](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+
+  [ASP.NET Core](https://github.com/dotnet/aspnetcore)
+  [awesome-dotnet-core中文版](https://github.com/jasonhua95/awesome-dotnet-core)
+
