@@ -38,6 +38,7 @@
   2. [libuv](https://github.com/libuv/libuv)
   3. [C++ Standard Library](https://github.com/microsoft/STL)
   4. [libuv中文教程](https://github.com/luohaha/Chinese-uvbook)
+  5. [c-ares 异步 DNS 请求库](https://github.com/c-ares/c-ares)
 
 # deno
   1. [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note)
@@ -59,4 +60,5 @@
 
   [ASP.NET Core](https://github.com/dotnet/aspnetcore)
   [awesome-dotnet-core中文版](https://github.com/jasonhua95/awesome-dotnet-core)
+ 
 
