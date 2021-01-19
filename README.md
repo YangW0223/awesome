@@ -54,6 +54,7 @@
   1. [react-native](https://github.com/facebook/react-native)
   2. [flutter](https://github.com/flutter/flutter)
   3. [一款跨平台的开源Github客户端App](https://github.com/CarGuo/GSYGithubAPP)
+  4. [flutter 豆瓣](https://github.com/kaina404/FlutterDouBan)
  
  # Svg & Canvans
   1. [百度脑图](https://github.com/fex-team/kityminder)
