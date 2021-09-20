@@ -12,6 +12,7 @@
 
 # 微前端
   1. 蚂蚁金融科技[qiankuan](https://github.com/umijs/qiankun) [简介](https://qiankun.umijs.org/zh/guide/#%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E5%89%8D%E7%AB%AF)
+  2. [qiankun 微前端原理与实践](https://zhuanlan.zhihu.com/p/333273402)
   
 # SSR
   1. [Next.js](https://github.com/vercel/next.js)
