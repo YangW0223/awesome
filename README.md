@@ -1,5 +1,17 @@
 # awesome
 
+
+## TODO
+- [ ] sagas
+- [x] redux
+- [ ] rxjs
+- [ ] koa
+- [ ] immutable 共享结构怎么实现的
+- [ ] 微前端qiankun, 以及沙箱实现机制
+- [ ] [为什么要用hooks](https://zhuanlan.zhihu.com/p/137183261)
+- [ ] http 常用的状态码
+- [ ] [闭包 和 原型](https://www.cnblogs.com/wangfupeng1988/p/3977924.html)
+
 # react 源码
  1. [React技术揭秘](https://react.iamkasong.com/)
 
