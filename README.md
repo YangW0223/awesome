@@ -47,6 +47,7 @@
   3. [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
   4. [网易云音乐 API](https://github.com/Binaryify/NeteaseCloudMusicApi)
   5. [通过源码分析nodejs原理](https://github.com/theanarkh/understand-nodejs)
+  6. [Node.js 源码剖析](https://theanarkh.github.io/understand-nodejs/chapter01-Node.js%E7%BB%84%E6%88%90%E5%92%8C%E5%8E%9F%E7%90%86/)
   
 # node 实战
   1. [node-elm](https://github.com/bailicangdu/node-elm)
