@@ -57,6 +57,10 @@
 # serverless
   1. [midway](https://github.com/midwayjs/midway)
 
+# go
+ 1. [Go 可比较类型](https://www.51cto.com/article/690436.html)
+
+
 # Java
   1. [Java8](https://github.com/LingCoder/OnJava8)
   2. [Spring Boot Demo 是一个用来深度学习并实战 spring boot 的项目](https://github.com/xkcoding/spring-boot-demo)
